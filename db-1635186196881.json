@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": "id-2",
+      "text": "Разобраться с React Router",
+      "completed": false
+    },
+    {
+      "id": "id-3",
+      "text": "Привыкнуть к Redux",
+      "completed": false
+    },
+    {
+      "id": "id-4",
+      "text": "Попробовать React Hooks",
+      "completed": true
+    },
+    {
+      "text": "dfgdfg",
+      "completed": false,
+      "id": "e6wT1eU"
+    },
+    {
+      "text": "dfgdfg",
+      "completed": false,
+      "id": "eJgr6lB"
+    }
+  ]
+}
